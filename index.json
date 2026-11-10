@@ -1,0 +1,11 @@
+{
+  "org": "khellang",
+  "repo": "Scrutor",
+  "versions": [
+    {
+      "commit": "7f315dab5b0f7134a6be58941db1da8c904507e2",
+      "tag": "v7.0.0",
+      "parsed_at": "2026-11-10T06:56:53.805610+00:00"
+    }
+  ]
+}
