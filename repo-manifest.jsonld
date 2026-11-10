@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/khellang/Scrutor/commit/7f315dab5b0f7134a6be58941db1da8c904507e2",
       "git:hexsha": "7f315dab5b0f7134a6be58941db1da8c904507e2",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v7.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v7.0.0",
+      "repolex:parsedAt": "2026-11-10T06:56:53.805052+00:00"
     },
     {
       "@id": "https://repolex.ai/r/khellang/Scrutor/commit/207295ddf1e531958823d09199cf68f98e1d1cdd",
