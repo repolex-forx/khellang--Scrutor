@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/khellang/Scrutor/commit/7f315dab5b0f7134a6be58941db1da8c904507e2",
       "git:hexsha": "7f315dab5b0f7134a6be58941db1da8c904507e2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v7.0.0"
     },
     {
